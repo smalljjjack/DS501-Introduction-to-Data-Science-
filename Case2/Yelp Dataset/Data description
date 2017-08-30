@@ -1,0 +1,3 @@
+First we download all some data from Yelp including business information, customer information. 
+Then we cluster user by using Kmean API to get the Data set we want.
+Customers which are in same cluster have same interests, fro instance they may have same kinds of food.
