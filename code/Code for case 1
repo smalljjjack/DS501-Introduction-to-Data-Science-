@@ -1,0 +1,3 @@
+In case 1, we used python as the language to do collect and analyze work. 
+We first use numpy and twitter json to get data which we need then us json to sperate data we want. 
+Finally use plot to visulaize the result we got. 
