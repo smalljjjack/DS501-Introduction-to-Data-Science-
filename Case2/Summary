@@ -1,0 +1,7 @@
+In this case, we did analyze the yelp Data.
+Yelp provide a lot of data including user information, business information, stars and etc.
+Yelp doesn't provide any API, we had to download all data from yelp for further analysis.
+We uses Kmean API to built cluster which aggregate user which have same interests as same cluster.
+User were classified by their review location and some other factors. 
+By doing all of this, we predicted a specific customer will have which specific interests.
+And through the result of prediction, we recommend user friends who may have same habit and business which they may like.
