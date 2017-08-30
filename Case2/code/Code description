@@ -1,0 +1,6 @@
+We used Eunm, json ,os, plt, Counter, sys, csv, KMeans modules to built the Data set we needs
+Then we Created user profile: aggregating review, business, user into file
+Construct per-postal code user to category review count matrices as CSV files
+And we based on those information Chose top 3 users as sample to 
+recommend top 3 potential friends to them 
+recommend top 3 potential businesses to them
