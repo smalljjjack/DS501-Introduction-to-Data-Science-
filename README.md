@@ -1,2 +1,3 @@
 # DS501-Introduction-to-Data-Science-
 This repository is to record my study experience in WPI DS 501 course.
+In spring 2017, I took WPI DS 501 course Introduction to Data Science which taught student the basic skills and concepts about Data science. In that course,I got some understanding about Random forest, AI, big Data analysis and etc. In that course, we did 4 quizs and 6 projects. Every project is different, some of them used some specific data set to do some prediction, some required us to create data set by ourselves. By finished those 6 projects I learn a lot of very common API like JSON, matlob...
