@@ -1,0 +1,2 @@
+By using twitter developer API, we extracted and intergate data about superbowl during 2017 april and march in order to do late analysis. 
+We used several tools like numpy twitter and etc for data coolection. Finally we get all those data which store in JSON file.
