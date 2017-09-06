@@ -1,0 +1,5 @@
+AI player – Python, gym(OpenAI)
+•	Create AI player for Pacman and Taxi drop and pick game by applying openAI
+•	Clean game interface to eliminate deviation through using numpy
+•	Define two level of Neural Network to make player make decision automatically and achieve self-learning 
+•	Repeat training AI players more than 100,000 episodes in order to improve their performance
